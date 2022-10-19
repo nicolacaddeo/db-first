@@ -1,0 +1,16 @@
+INFO SINGOLE MACCHINE =>
+
+-   ID: intero - MEDIUMINT
+-   Codice modello: varchar(5)
+-   Modello: stringa - varchar(20)
+-   Casa produttrice: stringa - varchar(20)
+-   Anno di produzione: YEAR
+-   Chilometraggio: intero - MEDIUMINT
+-   Condizioni: stringa - varchar(20)
+-   Tipo di cambio: stringa - varchar(10)
+-   Carburante: stringa - varchar(20)
+-   Cavalli: intero - SMALLINT
+-   Potenza(kW): intero - SMALLINT
+-   Posti: intero - TINYINT
+-   Porte: intero - TINYINT
+
